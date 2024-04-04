@@ -2,10 +2,6 @@
 
 This is the Official Code for the paper: **Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models**.
 
-Paper Link: 
-* [arvix]()
-* [ICML]()
-
 ## Create Environment
 ` conda create -n uhop python=3.8` <br>
 `conda activate uhop` <br>
@@ -53,5 +49,5 @@ If you have downloaded the dataset already, please see `data_utils.py` to setup 
 
 ## Citation
 
-If you find our paper useful, please consider citing our work:
+If you find our paper useful, please consider citing our work
 
