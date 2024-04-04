@@ -50,3 +50,8 @@ To run experiments on TinyImageNet, you can use the code `download_tinyimagenet.
 If you have downloaded the dataset already, please see `data_utils.py` to setup the corresponding directory.
 
 `python3 deep_ViH.py --data tiny_imagenet --datasize 60000 --n_class 200 --init_lr 0.0001 --batch_size 1024`
+
+## Citation
+
+If you find our paper useful, please consider citing our work:
+
