@@ -51,3 +51,12 @@ If you have downloaded the dataset already, please see `data_utils.py` to setup 
 
 If you find our paper useful, please consider citing our work
 
+```
+@inproceedings{wu2024uniform,
+  title={Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models},
+  author={Wu, Dennis and Hu, Jerry Yao-Chieh and Hsiao, Teng-Yun and Liu, Han},
+  booktitle={Forty-first International Conference on Machine Learning (ICML)},
+  year={2024},
+  url={https://arxiv.org/abs/2404.03827}
+}
+```
